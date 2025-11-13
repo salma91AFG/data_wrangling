@@ -60,7 +60,7 @@ Le travail s’articule autour d’un processus complet de **Data Wrangling**, s
 - Relations entre **montant de commande** et satisfaction  
 - Villes et régions les plus touchées par les retards  
 - Catégories de produits avec retards récurrents  
-- Durée moyenne de livraison par catégorie (`groupby + mean`)  
+- Durée moyenne de livraison par catégorie
 
 ---
 
